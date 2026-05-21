@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0D1117&text=Harika&fontColor=58A6FF&fontSize=55&animation=fadeIn&desc=Aspiring%20AI%2FML%20Developer&descSize=18&descAlignY=67" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0D1117&text=Harika&fontColor=58A6FF&fontSize=45&animation=fadeIn&desc=Aspiring%20AI/ML%20Developer&descSize=16&descAlignY=67" width="100%" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Java+Developer;AI%2FML+Explorer;DSA+Learner;Future+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
-<div align="center">
+---
 
-### 🌌 Turning Ideas Into Code
+## 👨‍💻 About Me
 
-💙 Java Enthusiast  
-🤖 AI/ML Explorer  
-⚡ Future Full Stack Developer  
-🚀 Growing One Commit At A Time  
+🌱 Currently learning **Java & DSA**  
+🚀 Exploring **AI/ML and Full Stack Development**  
+💻 Building projects and improving consistently  
+⚡ Goal: Become a skilled software developer  
+🎯 Focused on daily learning and GitHub growth  
 
-</div>
+---
 
 ---
 
@@ -50,6 +50,11 @@
 </p>
 
 ---
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harika880&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</p>
 
 ## 🎯 Current Goals
 
@@ -60,6 +65,27 @@
 ✔ Grow on GitHub daily
 ✔ Become industry ready
 ```
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/harika880" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naraharisetti-sai-harika-384b4440a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a>
+
+</p>
+
+---
 ---
 <div align="center">
 
