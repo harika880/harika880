@@ -8,12 +8,20 @@
 
 <div align="center">
 
-### 🌌 Turning Ideas Into Code
+## 💫 About Me
 
-💙 Java Enthusiast  
-🤖 AI/ML Explorer  
-⚡ Future Full Stack Developer  
-🚀 Growing One Commit At A Time  
+```java
+class Harika {
 
-</div>
+    String role = "Aspiring AI/ML Developer";
+    
+    String[] currentlyLearning = {
+        "Java",
+        "DSA",
+        "Full Stack Development"
+    };
+
+    String goal = "Become a skilled software developer";
+
+}
 
