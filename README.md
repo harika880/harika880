@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0D1117&text=Harika&fontColor=58A6FF&fontSize=55&animation=fadeIn&desc=Aspiring%20AI/ML%20Developer&descSize=18&descAlignY=67" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0D1117&text=Harika&fontColor=58A6FF&fontSize=55&animation=fadeIn&desc=Aspiring%20AI%2FML%20Developer&descSize=18&descAlignY=67" width="100%" />
 </p>
 
 <p align="center">
@@ -40,19 +40,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harika880&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harika880&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harika880&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harika880&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harika880&theme=tokyonight&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harika880&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
@@ -65,3 +59,14 @@
 ✔ Build AI/ML projects
 ✔ Grow on GitHub daily
 ✔ Become industry ready
+---
+
+<div align="center">
+
+## 🌟 Thanks For Visiting My Profile 💙
+
+✨ Keep Learning • Keep Building • Keep Growing ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
+
+</div>
