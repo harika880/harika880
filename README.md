@@ -59,8 +59,8 @@
 ✔ Build AI/ML projects
 ✔ Grow on GitHub daily
 ✔ Become industry ready
+```
 ---
-
 <div align="center">
 
 ## 🌟 Thanks For Visiting My Profile 💙
