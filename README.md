@@ -1,25 +1,26 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0D1117&text=Harika&fontColor=58A6FF&fontSize=55&animation=fadeIn&desc=Aspiring%20AI/ML%20Developer&descSize=18&descAlignY=67" width="100%" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Java+Developer;AI%2FML+Explorer;DSA+Learner;Future+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
+---
+
 <div align="center">
-## 🚀 Developer Journey
 
-```yaml
-Name: Harika
-Role: Aspiring AI/ML Developer
-Currently Learning:
-  - Java
-  - DSA
-  - Full Stack Development
+### 🌌 Turning Ideas Into Code
 
-Goals:
-  - Build impactful projects
-  - Grow consistently on GitHub
-  - Become industry ready
+💙 Java Enthusiast  
+🤖 AI/ML Explorer  
+⚡ Future Full Stack Developer  
+🚀 Growing One Commit At A Time  
+
+</div>
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -33,3 +34,34 @@ Goals:
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harika880&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harika880&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harika880&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Current Goals
+
+```yaml
+✔ Master Java
+✔ Solve DSA consistently
+✔ Build AI/ML projects
+✔ Grow on GitHub daily
+✔ Become industry ready
